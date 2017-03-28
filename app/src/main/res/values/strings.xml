@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Tarea27</string>
     <string name="Contact_1">Contacto 1</string>
-    <string name="Name">Andres Teran</string>
-    <string name="Lastname">Teran Ortega</string>
+    <string name="Name">Nombre: Andres Felipe</string>
+    <string name="Lastname">Apellido: Teran Ortega</string>
     <string name="Age">Edad: 22</string>
     <string name="Numertele">Telefono: 729865</string>
     <string name="form_email">Correo</string>
@@ -15,5 +15,8 @@
     <string name="str_menu_add">Adicionar</string>
     <string name="str_menu_change_name">Cambiar Nombre</string>
     <string name="str_menu_Close">Salir</string>
+    <string name="str_change_name">Nombre: Aydalidt Yohana</string>
+    <string name="str_change_lastname">Apellido: Bermudes Quintero</string>
+
 
 </resources>

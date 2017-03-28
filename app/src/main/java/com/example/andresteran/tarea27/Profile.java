@@ -7,7 +7,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
+import android.widget.TextView;
 import android.widget.Toast;
+
+import org.w3c.dom.Text;
 
 public class Profile extends AppCompatActivity {
 
@@ -46,6 +50,12 @@ public class Profile extends AppCompatActivity {
                 startActivity(intent);
                 return true;
             case R.id.itm_menu_change_name:
+
+                setContentView(R.layout.activity_profile);
+                TextView txtName = (TextView)findViewById(R.id.Name_Profile);
+                txtName.setText(getResources().getString(R.string.str_change_name));
+                TextView txtLastname = (TextView)findViewById(R.id.Lastname_Profile);
+                txtLastname.setText(getResources().getString(R.string.str_change_lastname));
 
 
                 return true;
