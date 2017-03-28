@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tarea27</string>
+    <string name="Contact_1">Contacto 1</string>
+    <string name="Name">Andres Teran</string>
+    <string name="Lastname">Teran Ortega</string>
+    <string name="Age">Edad: 22</string>
+    <string name="Numertele">Telefono: 729865</string>
+    <string name="form_email">Correo</string>
+    <string name="form_commentary">Comentario</string>
+    <string name="str_btn_update">Registrarse</string>
+    <string name="str_title_toolbar">Volver</string>
+    <string name="str_menu_serach">Buscar</string>
+    <string name="str_menu_delete">Eliminar</string>
+    <string name="str_menu_update">Recargar</string>
+    <string name="str_menu_add">Adicionar</string>
+    <string name="str_menu_change_name">Cambiar Nombre</string>
+    <string name="str_menu_Close">Salir</string>
+
+</resources>
